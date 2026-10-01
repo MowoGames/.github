@@ -8,15 +8,15 @@
   <img src="./banner.png" alt="Mowo Group" width="100%" />
 </p>
 
-<h1 align="center">Mowo Group</h1>
+<h1 align="center">Mowo Games</h1>
 
 <p align="center">
   <b>Studios, products, and the technology that powers them — all under one roof.</b><br/>
-  <sub>Parent company behind <a href="https://mowogames.com">Mowo Games</a> and <a href="https://github.com/mowo-group">MowoEngine</a>. Est. 2026.</sub>
+  <sub>Parent company behind <a href="https://mowoengine.com">MowoEngine</a>. Est. 2026.</sub>
 </p>
 
 <p align="center">
-  <a href="https://mowo.group"><img alt="Website" src="https://img.shields.io/badge/mowo.group-0a0a0a?style=flat-square&logo=safari&logoColor=white"></a>
+  <a href="https://mowogames.com"><img alt="Website" src="https://img.shields.io/badge/mowogames.com-0a0a0a?style=flat-square&logo=safari&logoColor=white"></a>
   <a href="https://twitter.com/mowogroup"><img alt="Twitter" src="https://img.shields.io/badge/@mowogroup-1a1a1a?style=flat-square&logo=x&logoColor=white"></a>
   <a href="https://mowo.group/contact"><img alt="Contact" src="https://img.shields.io/badge/get_in_touch-1a1a1a?style=flat-square&logo=maildotru&logoColor=white"></a>
   <img alt="Followers" src="https://img.shields.io/github/followers/mowogroup?style=flat-square&label=followers&color=1a1a1a">
