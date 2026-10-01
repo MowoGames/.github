@@ -25,32 +25,6 @@
 
 <br/>
 
-## What we build
-
-<table>
-  <tr>
-    <td width="34%" valign="top">
-      <h3>Mowo Games</h3>
-      <p><sub>🟡 In development</sub></p>
-      <p>Our games studio. Where the engine becomes titles, and where the players land.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>MowoEngine</h3>
-      <p><sub>🟡 In development</sub></p>
-      <p>Custom C++20 engine for Windows, Linux & macOS. One renderer — Vulkan, with MoltenVK on macOS. Built in-house.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>CASTA</h3>
-      <p><sub>🤝 Collaboration · <a href="https://casta.lt">casta.lt</a></sub></p>
-      <p>Not ours — but we shipped software for it. An esports platform we contributed features to.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## Tech we ship with
-
 <p align="center">
   <img alt="C++20" src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white">
@@ -66,15 +40,6 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
 </p>
-
-<br/>
-
-## How we work
-
-> **Own the tech.** We build the tools so the ceiling is ours.
-> **Ship small, ship often.** Releases beat roadmaps.
-> **Operators, not middlemen.** Each venture is run by the people doing the work.
-> **Craft over crunch.** Good work needs rested people.
 
 <br/>
 
